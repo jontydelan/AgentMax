@@ -1,0 +1,3 @@
+,custID,first_name,last_name,email,Tracking ID,Carrier,Delivery_ETA,Delivery_status,Refund_ETA,Refund_status,Delivery_AI_cust_email,Delivery_AI_escalation,Delivery_AI_Logistic_email,Refund_AI_cust_email,Refund_AI_escalation,Refund_AI_Logistic_email,Delivery_delta,Refund_delta
+0,C100000,Ishaan,Joshi,ishaan.joshi0@example.com,O300000,ShipQuick,2025-10-23,pending,2025-10-23,pending,,,,,,,-3,-3
+1,C100001,Meera,Reddy,meera.reddy1@example.com,O300001,LocalCouriers,2025-10-30,pending,2025-10-23,Complete,,,,,,,4,-3

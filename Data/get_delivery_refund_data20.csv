@@ -1,0 +1,21 @@
+,custID,first_name,last_name,email,Tracking ID,Carrier,Delivery_ETA,Delivery_status,Refund_ETA,Refund_status,Delivery_AI_cust_email,Delivery_AI_escalation,Delivery_AI_Logistic_email,Refund_AI_cust_email,Refund_AI_escalation,Refund_AI_Logistic_email,Delivery_delta,Refund_delta
+0,C100000,Sneha,Mehta,sneha.mehta0@example.com,O300000,RapidExpress,2025-10-30,pending,2025-10-28,,,,,,,,1,-1
+1,C100001,Vihaan,Desai,vihaan.desai1@example.com,O300001,RapidExpress,2025-10-29,pending,2025-10-28,,,,,,,,0,-1
+2,C100002,Vihaan,Khan,vihaan.khan2@example.com,O300002,ShipQuick,2025-11-02,,2025-10-29,,,,,,,,4,0
+3,C100003,Kabir,Joshi,kabir.joshi3@example.com,O300003,RapidExpress,2025-10-29,Delivered,2025-11-01,,,,,,,,0,3
+4,C100004,Aditya,Desai,aditya.desai4@example.com,O300004,BlueX,2025-10-24,,2025-10-23,pending,,,,,,,-5,-6
+5,C100005,Aarav,Kapoor,aarav.kapoor5@example.com,O300005,BlueX,2025-10-28,pending,2025-10-29,,,,,,,,-1,0
+6,C100006,Sneha,Mehta,sneha.mehta6@example.com,O300006,LocalCouriers,2025-10-29,Delivered,2025-10-31,Complete,,,,,,,0,2
+7,C100007,Ishaan,Khan,ishaan.khan7@example.com,O300007,BlueX,2025-10-26,Delivered,2025-10-24,Complete,,,,,,,-3,-5
+8,C100008,Tara,Patel,tara.patel8@example.com,O300008,LocalCouriers,2025-11-02,,2025-10-25,,,,,,,,4,-4
+9,C100009,Vihaan,Sharma,vihaan.sharma9@example.com,O300009,BlueX,2025-10-30,Delivered,2025-10-25,,,,,,,,1,-4
+10,C100010,Vihaan,Khan,vihaan.khan10@example.com,O300010,LocalCouriers,2025-10-28,pending,2025-10-25,,,,,,,,-1,-4
+11,C100011,Ishaan,Patel,ishaan.patel11@example.com,O300011,LocalCouriers,2025-10-26,,2025-11-01,,,,,,,,-3,3
+12,C100012,Aarav,Desai,aarav.desai12@example.com,O300012,BlueX,2025-10-26,Delivered,2025-10-26,pending,,,,,,,-3,-3
+13,C100013,Kabir,Iyer,kabir.iyer13@example.com,O300013,BlueX,2025-10-28,,2025-10-28,,,,,,,,-1,-1
+14,C100014,Tara,Patel,tara.patel14@example.com,O300014,BlueX,2025-10-29,pending,2025-10-26,,,,,,,,0,-3
+15,C100015,Vihaan,Patel,vihaan.patel15@example.com,O300015,LocalCouriers,2025-10-27,Delivered,2025-10-23,Complete,,,,,,,-2,-6
+16,C100016,Aarav,Desai,aarav.desai16@example.com,O300016,RapidExpress,2025-10-29,,2025-10-31,,,,,,,,0,2
+17,C100017,Anaya,Khan,anaya.khan17@example.com,O300017,BlueX,2025-10-31,Delivered,2025-11-01,Complete,,,,,,,2,3
+18,C100018,Meera,Reddy,meera.reddy18@example.com,O300018,LocalCouriers,2025-10-29,pending,2025-11-02,,,,,,,,0,4
+19,C100019,Tara,Joshi,tara.joshi19@example.com,O300019,BlueX,2025-10-26,Delivered,2025-10-27,Complete,,,,,,,-3,-2
